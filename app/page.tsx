@@ -19,7 +19,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-          ou um desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência em React, Node.js, TypeScript, JavaScript, UI/UX, Next.js, HTML, CSS, Bootstrap, MySQL, Python e PHP. Busco criar soluções eficientes e intuitivas, sempre focando na melhor experiência do usuário.
+          Sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência em React, Node.js, TypeScript, JavaScript, UI/UX, Next.js, HTML, CSS, Bootstrap, MySQL, Python e PHP. Busco criar soluções eficientes e intuitivas, sempre focando na melhor experiência do usuário.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
